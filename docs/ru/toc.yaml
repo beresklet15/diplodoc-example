@@ -1,13 +1,6 @@
-title: Шаблон проекта документации
+title: Заказ
 href: index.yaml
 items: 
-  - name: О проекте
-    href: about.md
-  - name: Дополнительная страница
-    href: page.md
-  - name: Другая страница
-    href: anotherpage.md
-  - name: Подраздел
-    include:
-      path: sub-section/toc.yaml
-      mode: link
+  - name: Как создать заказ
+    href: how_to_counterparty.md
+
